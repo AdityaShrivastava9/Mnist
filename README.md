@@ -6,4 +6,6 @@ The model was trained on basically just **4 lines of code**. It had achieved an 
 
 Here are the images of when it predicted the wrong results.
 
+<img src = 'https://github.com/AdityaShrivastava9/Mnist/blob/master/Predicted.png'>
+
 
